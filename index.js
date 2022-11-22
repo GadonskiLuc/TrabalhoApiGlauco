@@ -3,7 +3,7 @@ const express = require('express');
 const server = express();
 
 server.get(`/`, (req, res) => {
-    res.send("Raiz");
+    res.send("Api ok");
 });
 
 server.get("/api", (req, res) => {
