@@ -8,10 +8,18 @@ Teste ela você terá uma surpresa bem legal :) (mas ainda não é bem o objetiv
 
 ### O uso da API
 Como foi dito acima, a nossa API tem o simples objetivo de jogar Ping-Pong,
-o que isso significa exatamente?  Não, ela não ira pegar uma raquete e ser seu parceiro de tênis de mesa, 
+o que isso significa exatamente? Não, ela não ira pegar uma raquete e ser seu parceiro de tênis de mesa, 
 basicamente ela recebe um valor, e retorna outro.
 No nosso caso ela deverá receber um "ping" e retornar "pong",
-ou vice e versa. Por isso dizemos que ela joga Ping-Pong 😁.
+ou vice e versa. Por isso dizemos que ela joga Ping-Pong. 😁
 
 Jogar Ping: ` http://localhost/api?som=ping`
 Jogar Pong: ` http://localhost/api?som=pong`
+
+Qualquer coisa diferente disso retornará a mesma 
+coisa que o link do tópico anterior. 😉
+
+### Conclusão
+É basicamente isso, uma API bem simples mesmo, ela é uma boa forma
+de abordar esse assunto de uma forma tranquila e não confusa.
+Obrigado por acessar o nosso trabalho! 😄
